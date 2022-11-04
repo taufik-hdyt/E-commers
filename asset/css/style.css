@@ -1,0 +1,28 @@
+
+
+
+.product-slider {
+  height: 250px;
+  width: 200px;
+}
+.product-content {
+  background-color: black;
+
+}
+
+.col-md-3 {
+ width: 300px; 
+}
+
+.carousel-Item Img {
+  opacity: 0.2;
+}
+
+.containerall {
+  width: 100%;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+}
